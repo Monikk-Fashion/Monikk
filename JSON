@@ -1,0 +1,15 @@
+[
+  {
+    "name":"Black Royal Dress",
+    "price":"$60",
+    "image":"images/look1.jpg",
+    "link":"https://wa.me/234000000000"
+  },
+
+  {
+    "name":"Minimal White Outfit",
+    "price":"$45",
+    "image":"images/look2.jpg",
+    "link":"https://wa.me/234000000000"
+  }
+]
